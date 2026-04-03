@@ -25,7 +25,7 @@ Elle classifie le texte saisi en **FAKE** ou **REAL** grâce à un modèle de Ma
 
 1. Cloner le repository :
 ```bash
-   git clone https://github.com/votre-username/Detection-Fake-News-ML.git
+   git clone https://github.com/AbdelouahadOudraia/Detection-Fake-News-ML.git
 ```
 
 2. Installer les dependances :
